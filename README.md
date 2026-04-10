@@ -59,12 +59,6 @@ Sep 2025 - Dec 2025
 - Ranked in the 87th percentile nationally in the Individual Game across cryptography, OSINT, digital forensics, and network scanning challenges
 - Reached the 95th percentile in Scanning and Reconnaissance, demonstrating strong vulnerability identification skills
 
-### AI Simulation - Paranoia Engine
-Team Member  
-
-- Earned 2nd Place by helping develop a scalable AI-driven simulation under competitive time constraints
-- Designed and implemented AI agents using algorithmic decision-making and probabilistic modeling
-
 ## Activities And Leadership
 
 ### Certified Radio Presenter
