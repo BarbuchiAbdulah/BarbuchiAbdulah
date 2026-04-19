@@ -1,107 +1,130 @@
-## Hi, I'm Barbuchi Abdulah Buhari
+<div align="center">
 
-🎓 Computer Science and Mathematics student at Lewis & Clark College  
-🔐 Concentration in Cybersecurity and Data Science  
-🌱 Building skills in software engineering, cybersecurity, IT support, and data analysis  
-🤝 Open to collaborations, internships, and opportunities to keep learning  
+# Hey there! I'm Barbuchi Abdulah Buhari 👋
 
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbuchiaddulah)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barbuchis@lclark.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Barbuchiabba)
+### Computer Science & Mathematics @ Lewis & Clark College
 
-- Email: `barbuchis@lclark.edu`
-- Phone: `(503)-442-0246`
-- LinkedIn: [linkedin.com/in/barbuchiabulah](https://www.linkedin.com/in/barbuchiabulah)
-- GitHub: [github.com/Barbuchiabba](https://github.com/Barbuchiabba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbuchiabdulah/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarbuchiAbdulah)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbuchis@lclark.edu)
 
-## Education
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Data+Science+%7C+Software+Engineering;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80;Building+Secure+%26+Data-Driven+Solutions" alt="Typing SVG" />
 
-- Lewis & Clark College, Portland, Oregon
-- B.A. in Computer Science and Mathematics
-- Expected graduation: May 2028
-- Concentration: Cybersecurity / Data Science
-- Davis Scholar: `$40,000/year`
-- Related coursework: Data Structures and Algorithms, Calculus, Discrete Math, Web Development and Networking, Object-Oriented Programming, Statistics and Applications, Network Security
-
-## Experience
-
-### IT Help Desk Technician
-Lewis & Clark College Law School, Portland, Oregon  
-Aug 2025 - Present
-
-- Provide front-line technical support to 100+ faculty, staff, and students across macOS and Windows environments
-- Resolve 10+ tickets per week and help reduce repeat incidents through documentation and escalation
-- Configure and maintain 10+ classroom AV systems and shared lab devices to support uninterrupted instruction
-
-### Data Science Tutor
-Data Science Department, Lewis & Clark College, Portland, Oregon  
-Sep 2025 - Present
-
-- Support 25+ students per semester in Python-based data analysis and statistical modeling
-- Guide students through data cleaning, visualization, and exploratory analysis using `pandas` and `RStudio`
-- Help with regression analysis, hypothesis testing, model evaluation, and debugging
-
-### Cybersecurity Teaching Assistant - CS 111
-Lewis & Clark College, Portland, Oregon  
-Aug 2025 - Jan 2026
-
-- Supported 20+ students in cybersecurity labs covering networking, privacy, and system security
-- Reinforced best practices in authentication, risk assessment, and system hardening
-- Held office hours to explain security concepts and troubleshoot lab issues
-
-## Projects
-
-### National Cyber League (NCL)
-Individual and Team Competitor  
-Sep 2025 - Dec 2025
-
-- Ranked in the 87th percentile nationally in the Individual Game across cryptography, OSINT, digital forensics, and network scanning challenges
-- Reached the 95th percentile in Scanning and Reconnaissance, demonstrating strong vulnerability identification skills
-
-## Activities And Leadership
-
-### Certified Radio Presenter
-National Sahrawi Radio, Tindouf, Algeria  
-Nov 2017 - Feb 2018
-
-### Outdoor Leader
-Department of Outdoors (OP), UWC East Africa, Tanzania  
-Aug 2023 - Jun 2024
-
-- Conducted risk assessments and delivered safety briefings before multi-day trips
-- Managed logistics, route planning, and essential equipment preparation for 5+ organized excursions
-
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-## Skills
-
-- Programming: Python, JavaScript, HTML/CSS, SQL, Node.js, C, Swift (iOS), Linux
-- Tools: RStudio, Visual Studio Code, PyCharm, Nmap, Wireshark, Git
-- Languages: Arabic, English, Spanish
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Barbuchiabba&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Barbuchiabba&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbuchiabba&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Barbuchiabba&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧑‍💻 About Me
+
+```yaml
+Name: Barbuchi Abdulah Buhari
+Location: Portland, Oregon
+Education: B.A. Computer Science & Mathematics — Lewis & Clark College (May 2028)
+Focus: Cybersecurity · Data Science · Software Engineering
+Award: Davis Scholar ($40,000/year)
+Languages: Arabic · English · Spanish
+Status: 🟢 Open to internships, collaborations & opportunities
+```
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **87th percentile nationally** — National Cyber League (NCL) Individual Game
+- 🔍 **95th percentile** in Scanning & Reconnaissance — vulnerability identification
+- 🎓 **Davis Scholar** — full merit-based scholarship recipient
+- 🧑‍🏫 **Teaching Assistant** & **Tutor** in Cybersecurity and Data Science
+- 🖥️ **IT Help Desk Technician** — supporting 100+ users across macOS & Windows
+
+---
+
+## 💼 Experience
+
+| Role                          | Organization                     | Period              |
+| ----------------------------- | -------------------------------- | ------------------- |
+| **IT Help Desk Technician**   | Lewis & Clark College Law School | Aug 2025 – Present  |
+| **Data Science Tutor**        | Lewis & Clark College            | Sep 2025 – Present  |
+| **Cybersecurity TA — CS 111** | Lewis & Clark College            | Aug 2025 – Jan 2026 |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cybersecurity & Networking**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & IDEs**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BarbuchiAbdulah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbuchiAbdulah&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BarbuchiAbdulah&theme=tokyonight&hide_border=true" width="600" />
+
+</div>
+
+---
+
+## 📚 Relevant Coursework
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Network Security` · `Web Development & Networking` · `Statistics & Applications` · `Discrete Math` · `Calculus`
+
+---
+
+## 🌍 Beyond Tech
+
+- 🏔️ **Outdoor Leader** — UWC East Africa, Tanzania — led multi-day wilderness excursions with risk assessment & logistics planning
+- 📻 **Certified Radio Presenter** — National Sahrawi Radio, Algeria
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect!
+
+I'm always open to interesting conversations, internships, and collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbuchiabdulah/)
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbuchis@lclark.edu)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=BarbuchiAbdulah&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+
+</div>
+
 
